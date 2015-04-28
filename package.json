@@ -4,7 +4,8 @@
   "description": "",
   "main": "release.js",
   "engines": {
-  "node": "0.12.x"
+  "node": "0.12.x",
+  "npm": "2.1.x"
 },
   "dependencies": {
     "total.js": "^1.8.0"
