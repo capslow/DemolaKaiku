@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "release.js",
+  "engines": {
+  "node": "0.12.x"
+},
   "dependencies": {
     "total.js": "^1.8.0"
   },
