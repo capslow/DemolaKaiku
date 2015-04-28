@@ -1,0 +1,19 @@
+{
+  "name": "Demola Kaiku",
+  "version": "1.0.0",
+  "description": "Tienda Online Kaiku",
+  "main": "release.js",
+  "engines": {
+    "node": "0.12.x"
+  },
+  "dependencies": {
+    "total.js": "^1.7.2-1",
+    "npm": "^2.7.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DemolaKaiku",
+  "license": "ISC"
+}
