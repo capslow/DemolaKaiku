@@ -7,7 +7,7 @@
 
     100% To use For Personal And Commercial Use.
     IN EXCHANGE JUST GIVE US CREDITS AND TELL YOUR FRIENDS ABOUT US
-   
+
     ========================================================  */
 
 
@@ -15,10 +15,10 @@
     GENERAL STYLES
 ==================================================*/
 body {
-   
-          
+
+
     font-size:25px;
-    color:#fff; 
+    color:#fff;
     font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 
@@ -30,12 +30,12 @@ background-size: cover;
 }
 
 .back-section .overlay {
-background: rgba(97, 70, 0, 0.82);
+/*background: rgba(97, 70, 0, 0.82);*/
 min-height:800px;
 }
 .pad-top-one {
     padding-top:40px;
-    
+
 }
 .pad-top-two {
     padding-top:100px;
@@ -57,7 +57,7 @@ min-height:800px;
      text-align:center;
      padding:30px;
      font-size:35px;
-     
+
 }
 .img-custom {
     height:120px;
@@ -70,4 +70,3 @@ min-height:800px;
     text-decoration:none;
     color:#fff;
 }
-
