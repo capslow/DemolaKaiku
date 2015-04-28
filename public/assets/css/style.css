@@ -49,7 +49,7 @@ min-height:800px;
     text-align:center;
     margin:120px 0px 0px 0px;
     padding:40px;
-    font-size:65px;
+    font-size:45px;
     font-weight:900;
 }
 .sub-line {
@@ -60,7 +60,7 @@ min-height:800px;
 
 }
 .img-custom {
-    height:120px;
+    height:80px;
     border:2px solid #fff  ;
     padding:20px;
 }
@@ -72,5 +72,5 @@ min-height:800px;
 }
 #Mensaje
 {
-  font-size: 40px;
+  font-size: 30px;
 }
