@@ -1,19 +1,23 @@
 {
-  "name": "Demola Kaiku",
+  "name": "demolaKaiku",
   "version": "1.0.0",
-  "description": "Tienda Online Kaiku",
+  "description": "",
   "main": "release.js",
-  "engines": {
-    "node": "0.12.x"
-  },
   "dependencies": {
-    "total.js": "^1.7.2-1",
-    "npm": "^2.7.5"
+    "total.js": "^1.8.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "DemolaKaiku",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/capslow/demolaKaiku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/capslow/demolaKaiku/issues"
+  },
+  "homepage": "https://github.com/capslow/demolaKaiku"
 }
